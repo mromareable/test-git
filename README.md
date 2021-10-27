@@ -6,4 +6,4 @@ Repositorio prueba
 
 Ejercicios de git
 
-![git log](C:\Users\Lenovo\Pictures\Screenshots\gitlog.png)
+![gitlog](https://user-images.githubusercontent.com/33816843/139144460-74cd6c18-2c25-45fb-956e-15618ee821df.png)
